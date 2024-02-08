@@ -46,3 +46,8 @@ AWS_REGION = us-east-1
 ```
 
 
+## BentoML demo repo:
+
+https://github.com/entbappy/bentoml-demo
+
+
